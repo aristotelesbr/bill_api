@@ -1,0 +1,25 @@
+name: invoice_api
+version: 0.1.0
+
+authors:
+  - Aristóteles Coutinho <aristotelesbr2014@gmail.com>
+
+targets:
+  invoice_api:
+    main: src/invoice_api.cr
+
+crystal: 0.34.0
+
+dependencies:
+  lucky:
+    github: luckyframework/lucky
+    version: ~> 0.21
+  authentic:
+    github: luckyframework/authentic
+    version: ~> 0.5.1
+  carbon:
+    github: luckyframework/carbon
+    version: ~> 0.1.1
+  dotenv:
+    github: gdotdesign/cr-dotenv
+    version: ~> 0.7.0
