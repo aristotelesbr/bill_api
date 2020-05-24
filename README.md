@@ -1,5 +1,7 @@
 # invoice_api
 
+https://www.youtube.com/watch?v=TM1LxTjmcjU
+
 This is a project written using [Lucky](https://luckyframework.org). Enjoy!
 
 ### Setting up the project
